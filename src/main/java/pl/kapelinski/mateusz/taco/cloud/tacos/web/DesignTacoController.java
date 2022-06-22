@@ -45,8 +45,8 @@ public class DesignTacoController {
     }
 
     @PostMapping
-    public String processDesign(Design design){
-        log.info("Processing project taco:"+design);
+    public String processDesign(Taco taco){
+        log.info("Processing project taco:"+taco);
         return "redirect:/orders/current";
     }
 }
