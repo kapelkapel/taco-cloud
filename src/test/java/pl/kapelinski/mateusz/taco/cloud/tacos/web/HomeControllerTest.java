@@ -1,4 +1,4 @@
-package pl.kapelinski.mateusz.taco.cloud.tacocloud.controller;
+package pl.kapelinski.mateusz.taco.cloud.tacos.web;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;

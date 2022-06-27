@@ -1,4 +1,4 @@
-package pl.kapelinski.mateusz.taco.cloud.tacocloud;
+package pl.kapelinski.mateusz.taco.cloud.tacos;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
